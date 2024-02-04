@@ -1,0 +1,570 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Stella",
+                "last": "Cole"
+            },
+            "location": {
+                "street": {
+                    "number": 759,
+                    "name": "Spring Hill Rd"
+                },
+                "city": "Richardson",
+                "state": "Texas",
+                "country": "United States",
+                "postcode": 26933,
+                "coordinates": {
+                    "latitude": "89.9565",
+                    "longitude": "5.5048"
+                },
+                "timezone": {
+                    "offset": "+11:00",
+                    "description": "Magadan, Solomon Islands, New Caledonia"
+                }
+            },
+            "email": "stella.cole@example.com",
+            "login": {
+                "uuid": "e22f1cbd-3817-4c85-959f-9764877660bc",
+                "username": "yellowmeercat549",
+                "password": "monty",
+                "salt": "IhEUGt3u",
+                "md5": "b7ff4239250d672fe68079cde6e0d087",
+                "sha1": "e8ede2d01a90ba7a6275d36929ce192fb2fd0d9e",
+                "sha256": "690fa8140cb2bc9df81f87958b02696eaab536f57b30853df6e93bd088b3013c"
+            },
+            "dob": {
+                "date": "1968-04-26T15:31:06.898Z",
+                "age": 55
+            },
+            "registered": {
+                "date": "2007-10-10T16:05:15.443Z",
+                "age": 16
+            },
+            "phone": "(544) 507-7359",
+            "cell": "(692) 315-1986",
+            "id": {
+                "name": "SSN",
+                "value": "480-35-8879"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/51.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/51.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/51.jpg"
+            },
+            "nat": "US"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "\u0622\u0631\u0645\u06cc\u0646",
+                "last": "\u0631\u0636\u0627\u06cc\u06cc\u0627\u0646"
+            },
+            "location": {
+                "street": {
+                    "number": 9483,
+                    "name": "\u0645\u06cc\u062f\u0627\u0646 \u0634\u0647\u06cc\u062f \u0646\u0627\u0645\u062c\u0648"
+                },
+                "city": "\u062a\u0647\u0631\u0627\u0646",
+                "state": "\u062e\u0631\u0627\u0633\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc",
+                "country": "Iran",
+                "postcode": 27352,
+                "coordinates": {
+                    "latitude": "-23.3632",
+                    "longitude": "16.6678"
+                },
+                "timezone": {
+                    "offset": "+3:30",
+                    "description": "Tehran"
+                }
+            },
+            "email": "armyn.rdyyn@example.com",
+            "login": {
+                "uuid": "f8f42191-eeae-492b-a458-a6d058edbe93",
+                "username": "silverdog854",
+                "password": "duncan",
+                "salt": "zAVpx73A",
+                "md5": "b25587575f490accd1edc1e310444c53",
+                "sha1": "0a66613d0a54761ad87a6a085b4b23e0cce9726d",
+                "sha256": "c19c997d7c88243cd34eb129e691351e921085ccaa1cdcd0d386aa7a9c88cff0"
+            },
+            "dob": {
+                "date": "1968-02-21T20:24:12.236Z",
+                "age": 55
+            },
+            "registered": {
+                "date": "2017-12-05T12:19:04.477Z",
+                "age": 6
+            },
+            "phone": "001-06045897",
+            "cell": "0987-305-1123",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/17.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+            },
+            "nat": "IR"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Miriam",
+                "last": "White"
+            },
+            "location": {
+                "street": {
+                    "number": 5666,
+                    "name": "Frances Ct"
+                },
+                "city": "Lubbock",
+                "state": "Arkansas",
+                "country": "United States",
+                "postcode": 22973,
+                "coordinates": {
+                    "latitude": "-69.5696",
+                    "longitude": "-107.0624"
+                },
+                "timezone": {
+                    "offset": "+9:00",
+                    "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+                }
+            },
+            "email": "miriam.white@example.com",
+            "login": {
+                "uuid": "9fc54366-c46f-4e65-82d6-c2010a168ceb",
+                "username": "greenkoala664",
+                "password": "shanna",
+                "salt": "9JdvE6Dc",
+                "md5": "51395b2000ef4ac8801cc2df0dac3536",
+                "sha1": "5aa34a38452b00bf66641947d9f274ef2caea7c4",
+                "sha256": "4979a1f3f328a3eb6a3efe466cd7bf7447f95ed34668a0d3703ff9dcc394fc8f"
+            },
+            "dob": {
+                "date": "1972-09-21T07:09:25.326Z",
+                "age": 51
+            },
+            "registered": {
+                "date": "2012-02-21T15:45:09.704Z",
+                "age": 11
+            },
+            "phone": "(376) 460-2537",
+            "cell": "(620) 747-0660",
+            "id": {
+                "name": "SSN",
+                "value": "402-21-0798"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/81.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/81.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/81.jpg"
+            },
+            "nat": "US"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Gustav",
+                "last": "Jensen"
+            },
+            "location": {
+                "street": {
+                    "number": 3457,
+                    "name": "Skovvejen"
+                },
+                "city": "Nyk\u00f8bing F",
+                "state": "Syddanmark",
+                "country": "Denmark",
+                "postcode": 48226,
+                "coordinates": {
+                    "latitude": "55.1595",
+                    "longitude": "80.7296"
+                },
+                "timezone": {
+                    "offset": "+9:00",
+                    "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+                }
+            },
+            "email": "gustav.jensen@example.com",
+            "login": {
+                "uuid": "5082235f-ebf4-4e94-812f-9157e70c67a7",
+                "username": "purplefrog931",
+                "password": "gagged",
+                "salt": "LaiDqvZe",
+                "md5": "f816bf0779d82602e4f83e6f6d1e1a2c",
+                "sha1": "953fa413969ee2f08564aac37f262a18421ebe55",
+                "sha256": "c8df5df59c0cb165771dc9a07de9082fddfe3f87ae0f2fe373f1914d555381a3"
+            },
+            "dob": {
+                "date": "1990-07-05T08:30:57.755Z",
+                "age": 33
+            },
+            "registered": {
+                "date": "2005-11-18T02:53:51.180Z",
+                "age": 18
+            },
+            "phone": "89142735",
+            "cell": "74608836",
+            "id": {
+                "name": "CPR",
+                "value": "050790-1264"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/91.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+            },
+            "nat": "DK"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Marcial",
+                "last": "Ferreira"
+            },
+            "location": {
+                "street": {
+                    "number": 8295,
+                    "name": "Rua Par\u00e1 "
+                },
+                "city": "Birig\u00fci",
+                "state": "Paran\u00e1",
+                "country": "Brazil",
+                "postcode": 71405,
+                "coordinates": {
+                    "latitude": "-1.4637",
+                    "longitude": "121.7487"
+                },
+                "timezone": {
+                    "offset": "+5:00",
+                    "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+                }
+            },
+            "email": "marcial.ferreira@example.com",
+            "login": {
+                "uuid": "3b94b039-4b84-40b7-81aa-0713421bfd32",
+                "username": "angrywolf972",
+                "password": "wisdom",
+                "salt": "vP1y9RRA",
+                "md5": "5f361a6f60a53acbe7e42a36a9654e98",
+                "sha1": "0f81d8ff922956531891b65daf072ab38bf25920",
+                "sha256": "63c2c158b3176a81eb0b73f626d76e73b37b916f76b1a3a2c88ee00adc4f508b"
+            },
+            "dob": {
+                "date": "1960-05-29T12:49:35.391Z",
+                "age": 63
+            },
+            "registered": {
+                "date": "2009-02-10T03:01:25.397Z",
+                "age": 14
+            },
+            "phone": "(21) 7973-0703",
+            "cell": "(93) 0780-0448",
+            "id": {
+                "name": "CPF",
+                "value": "507.283.971-13"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/90.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+            },
+            "nat": "BR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Ege",
+                "last": "Tahincio\u011flu"
+            },
+            "location": {
+                "street": {
+                    "number": 9932,
+                    "name": "Kushimoto Sk"
+                },
+                "city": "Isparta",
+                "state": "Ankara",
+                "country": "Turkey",
+                "postcode": 57807,
+                "coordinates": {
+                    "latitude": "-25.4492",
+                    "longitude": "-104.8177"
+                },
+                "timezone": {
+                    "offset": "+4:30",
+                    "description": "Kabul"
+                }
+            },
+            "email": "ege.tahincioglu@example.com",
+            "login": {
+                "uuid": "d5b8e690-2745-4d16-a5ec-2ede264c59c7",
+                "username": "bigladybug922",
+                "password": "1qazxsw2",
+                "salt": "weglIdmO",
+                "md5": "4c0545ffb166686e793584e73c07380f",
+                "sha1": "fc8174b67b11671a12fb40b439d534ce592a0540",
+                "sha256": "625fee3811b4551eb2f5d2f3f090988d1c8da56e013a92a523ced4e2aad02371"
+            },
+            "dob": {
+                "date": "1969-08-21T08:44:51.392Z",
+                "age": 54
+            },
+            "registered": {
+                "date": "2003-07-05T03:48:37.954Z",
+                "age": 20
+            },
+            "phone": "(911)-363-8935",
+            "cell": "(833)-731-6596",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/6.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/6.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
+            },
+            "nat": "TR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Dean",
+                "last": "Arnold"
+            },
+            "location": {
+                "street": {
+                    "number": 2723,
+                    "name": "White Oak Dr"
+                },
+                "city": "Warragul",
+                "state": "Tasmania",
+                "country": "Australia",
+                "postcode": 1012,
+                "coordinates": {
+                    "latitude": "32.9869",
+                    "longitude": "-160.2362"
+                },
+                "timezone": {
+                    "offset": "+10:00",
+                    "description": "Eastern Australia, Guam, Vladivostok"
+                }
+            },
+            "email": "dean.arnold@example.com",
+            "login": {
+                "uuid": "de5a23a7-16a6-4bd7-a7a5-ad6fbb6f0ef4",
+                "username": "purplewolf340",
+                "password": "chrisbln",
+                "salt": "rhAHCI1x",
+                "md5": "b6384166614a82e1cb50bfbd3675acf8",
+                "sha1": "c6026d7a978db8d4e2aae06616883218e6f99496",
+                "sha256": "4f07470019983c0d901e2547fcd55b16ebe117097de3d57c385f6fd2e080d9f5"
+            },
+            "dob": {
+                "date": "1949-02-05T13:44:56.148Z",
+                "age": 74
+            },
+            "registered": {
+                "date": "2016-06-19T17:35:26.906Z",
+                "age": 7
+            },
+            "phone": "05-2206-2763",
+            "cell": "0486-782-039",
+            "id": {
+                "name": "TFN",
+                "value": "465380043"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/48.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+            },
+            "nat": "AU"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Zackary",
+                "last": "Chan"
+            },
+            "location": {
+                "street": {
+                    "number": 8372,
+                    "name": "Alfred St"
+                },
+                "city": "Southampton",
+                "state": "Nunavut",
+                "country": "Canada",
+                "postcode": "G7E 4U6",
+                "coordinates": {
+                    "latitude": "-28.4937",
+                    "longitude": "144.4952"
+                },
+                "timezone": {
+                    "offset": "+11:00",
+                    "description": "Magadan, Solomon Islands, New Caledonia"
+                }
+            },
+            "email": "zackary.chan@example.com",
+            "login": {
+                "uuid": "32cfb40b-06f6-40cc-8067-c81b3d6fb236",
+                "username": "sadtiger154",
+                "password": "milkman",
+                "salt": "hd8dyAFH",
+                "md5": "cb980d5ec14d1092106b67d011ff4541",
+                "sha1": "470ff5399f130708fdf1d9c05a364b635dda5898",
+                "sha256": "4ab84a8b6c5eed43b8edafecaffd8eb66ced9ebe9c65dff0f38c979a44b0d93f"
+            },
+            "dob": {
+                "date": "1984-04-29T14:02:46.557Z",
+                "age": 39
+            },
+            "registered": {
+                "date": "2022-01-09T06:52:33.197Z",
+                "age": 2
+            },
+            "phone": "I46 W03-2629",
+            "cell": "G23 R54-4615",
+            "id": {
+                "name": "SIN",
+                "value": "417363918"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/12.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+            },
+            "nat": "CA"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Christiane",
+                "last": "B\u00f6se"
+            },
+            "location": {
+                "street": {
+                    "number": 8351,
+                    "name": "M\u00fchlenweg"
+                },
+                "city": "Schleiden",
+                "state": "Hessen",
+                "country": "Germany",
+                "postcode": 49405,
+                "coordinates": {
+                    "latitude": "72.1666",
+                    "longitude": "-43.6151"
+                },
+                "timezone": {
+                    "offset": "-3:30",
+                    "description": "Newfoundland"
+                }
+            },
+            "email": "christiane.bose@example.com",
+            "login": {
+                "uuid": "5baf3618-5112-4803-a017-e711f215a6df",
+                "username": "brownlion779",
+                "password": "cyclops",
+                "salt": "4Fet1XP5",
+                "md5": "6287ac223ea61568c3b53a24863a47e6",
+                "sha1": "af1ac4b42a062498e06518d2fcd9f1d256576b1b",
+                "sha256": "119110dee916180a7aabae76797b3ed536ccf79d7b884b05451b4696ffc533d2"
+            },
+            "dob": {
+                "date": "1948-01-29T11:36:39.943Z",
+                "age": 76
+            },
+            "registered": {
+                "date": "2015-03-11T02:07:32.689Z",
+                "age": 8
+            },
+            "phone": "0498-5280272",
+            "cell": "0172-1270108",
+            "id": {
+                "name": "SVNR",
+                "value": "13 290148 B 529"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/37.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+            },
+            "nat": "DE"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Albert",
+                "last": "Lawrence"
+            },
+            "location": {
+                "street": {
+                    "number": 1590,
+                    "name": "Novara Avenue"
+                },
+                "city": "Athlone",
+                "state": "Cork",
+                "country": "Ireland",
+                "postcode": 71558,
+                "coordinates": {
+                    "latitude": "-33.1233",
+                    "longitude": "7.5173"
+                },
+                "timezone": {
+                    "offset": "0:00",
+                    "description": "Western Europe Time, London, Lisbon, Casablanca"
+                }
+            },
+            "email": "albert.lawrence@example.com",
+            "login": {
+                "uuid": "d65c5398-e902-430e-8ffb-b426878d63ae",
+                "username": "lazyelephant323",
+                "password": "stolen",
+                "salt": "ylzGhS9D",
+                "md5": "9824c987409c4a1f9b29f07a569bcbe3",
+                "sha1": "126c4e04dae2b348c8df11134aa8efb629d61676",
+                "sha256": "c91a9c3d0100dbc352be7934cc2e53fb6fc5012803c64147f8b2a9f788018509"
+            },
+            "dob": {
+                "date": "1981-10-27T01:50:14.467Z",
+                "age": 42
+            },
+            "registered": {
+                "date": "2004-02-03T05:38:47.388Z",
+                "age": 20
+            },
+            "phone": "021-183-1340",
+            "cell": "081-428-6939",
+            "id": {
+                "name": "PPS",
+                "value": "9447551T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/79.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+            },
+            "nat": "IE"
+        }
+    ],
+    "info": {
+        "seed": "da488312e0740739",
+        "results": 10,
+        "page": 1,
+        "version": "1.4"
+    }
+}

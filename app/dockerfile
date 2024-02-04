@@ -1,0 +1,17 @@
+FROM python:3.9
+
+# Update the package lists
+RUN apt-get update
+
+COPY . /inside_docker
+
+WORKDIR /inside_docker
+
+# Install the dependencies
+RUN pip install --no-cache-dir psycopg2-binary 
+
+RUN ls -lrt
+
+RUN pwd
+
+CMD ["python", "db_connect.py"]
