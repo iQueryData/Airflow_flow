@@ -4,8 +4,8 @@ networks:
   etl_dock:
 
 services:
-  postgres:
-    image: postgres
+  db:
+    image: postgres:latest
     restart: always
     environment:
       POSTGRES_DB: dummyDB
@@ -28,7 +28,7 @@ services:
       - .:/app 
       
     depends_on:
-      - postgres
+      - db
       
     networks:
       - etl_dock

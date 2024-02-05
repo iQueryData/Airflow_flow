@@ -2,11 +2,11 @@ import psycopg2
 
 
 try:
-    conn = psycopg2.connect(host = "localhost",
+    conn = psycopg2.connect(host = "db",
                             port = "5432",
-                          database = "dummyDB",
+                          dbname = "dummyDB",
                           user = "postgres",
-                          password = "postgres")
+                          password = "postgres") #host is the name in Docker-compose files 
     
     cur = conn.cursor()
 
