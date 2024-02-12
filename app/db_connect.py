@@ -2,6 +2,9 @@ import psycopg2
 import sys
 import requests, json
 
+import mysql.connector
+
+
 
 try:
     conn = psycopg2.connect(host = "db",
@@ -50,6 +53,19 @@ def gen_data():
 # How to Validate if a Connection Dropped during Insert and Data Lost ?
 # Data Count Checks ? 
 
+def mysql_connect():
+    print("Inside MySQL connector")
+
+    cnx = mysql.connector.connect(user='root', 
+                                  password='root',
+                                  host='localhost',
+                                  port='3306',
+                                  )
+    
+    cnx.execute("select  * from dummy_schema.dummy;")
+    rows_mbd = cur.fetchall()
+    print(rows_mbd)
+    cnx.close()
 
 
-            
+mysql_connect()
