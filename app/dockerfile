@@ -1,14 +1,16 @@
-FROM python:3.9
+FROM python:3.9-slim
 
 # Update the package lists
 RUN apt-get update
 
 COPY . /inside_docker
 
+COPY requirement_dev.txt /inside_docker/requirement_dev.txt
+
 WORKDIR /inside_docker
 
 # Install the dependencies
-RUN pip install --no-cache-dir psycopg2-binary 
+RUN pip install -r requirement_dev.txt
 
 RUN ls -lrt
 
