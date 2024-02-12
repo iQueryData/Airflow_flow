@@ -18,6 +18,17 @@ services:
     networks:
       - etl_dock 
 
+  mdb:
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_ROOT_USER: default
+      MYSQL_ROOT_PASSWORD: default
+    ports:
+      - "3066:3066"
+    networks:
+      - etl_dock
+
   app:
     restart: unless-stopped
     build:
@@ -28,7 +39,7 @@ services:
       - .:/app 
       
     depends_on:
-      - db
+      - mdb
       
     networks:
       - etl_dock

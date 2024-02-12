@@ -45,16 +45,11 @@ def gen_data():
         sys.exit(1)
 
 
-# def insert_to_db():
-#     if gen_data():
-#         # Do Database Connection 
-#         while time_out < 10:
-#             time_out = 0 
-#             time_out += 1
+# Do While Loop to connect to MySQL 
+# Once the Connection is Successful, Insert Data froM Json File to MySQL
+# How to Validate if a Connection Dropped during Insert and Data Lost ?
+# Data Count Checks ? 
 
-#             conn = psycopg2.connect('HOST',
-#                                     'PORT',
-#                                     'DATABASE',
-#                                     'USERNAME',
-#                                     'PASSWORD')
+
+
             
